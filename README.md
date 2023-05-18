@@ -39,3 +39,24 @@ Simply run python3 -m main.py
 
 Note that hyper-parameters should be optimized for different datasets.
 
+
+## Main Dependency Library
+
+fancyimpute==0.7.0
+
+imbalanced-learn==0.9.0
+
+imblearn==0.0
+
+keras==2.7.0
+
+Keras-Preprocessing==1.1.2
+
+lightgbm==3.3.2
+
+missingno==0.5.1
+
+scikit-learn==1.0.2
+
+tensorflow-gpu==2.7.0
+
