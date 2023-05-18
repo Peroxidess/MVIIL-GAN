@@ -27,7 +27,7 @@ Simply run python3 -m main.py
 
 (6) model/baseline.py
 
-Define supervised classification models
+- Define supervised classification models
 
 (7) model/evaluate.py
 
