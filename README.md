@@ -1,4 +1,4 @@
-#Codebase for "A Method for Missing Values Imputation and Imbalanced Data Learning in Electronic Health Record Based on Generative Adversarial Networks"
+# Codebase for "A Method for Missing Values Imputation and Imbalanced Data Learning in Electronic Health Record Based on Generative Adversarial Networks"
 
 This directory contains implementations of MVIIL-GAN for missing values imputation and imbalanced learning using MIMIC-IV dataset.
 
