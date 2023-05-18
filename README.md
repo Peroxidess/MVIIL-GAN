@@ -25,15 +25,15 @@ Simply run python3 -m main.py
 
 - Define MVIIL-GAN
 
-(6) model/baseline.py
+(5) model/baseline.py
 
 - Define supervised classification models
 
-(7) model/evaluate.py
+(6) model/evaluate.py
 
 - Performance of computation in imputation tasks and prediction tasks
 
-(8) main.py
+(7) main.py
 
 - Setting parameter and Report the prediction performances of entire frameworks
 
