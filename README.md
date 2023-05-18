@@ -37,5 +37,5 @@ Define supervised classification models
 
 - Setting parameter and Report the prediction performances of entire frameworks
 
-Note that hyper-parameters should be optimized for datasets.
+Note that hyper-parameters should be optimized for different datasets.
 
